@@ -2,15 +2,14 @@
 
 # SNB EDUventure
 
-### The official SNB Senior Secondary School app — wrapped in privacy.
+### The official SNB Senior Secondary School app.
 
-**Animated splash → 9-tile menu → immersive webview. No backend. No telemetry. No noise.**
 
 [![version](https://img.shields.io/badge/version-v2026.404.5-blue)](https://github.com/snbssschool/SNB-EDUventure/releases/latest)
 [![android](https://img.shields.io/badge/Android-API%2024%2B-3DDC84?logo=android&logoColor=white)](https://github.com/snbssschool/SNB-EDUventure/releases/latest)
 [![flutter](https://img.shields.io/badge/Flutter-3.47-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![telemetry](https://img.shields.io/badge/telemetry-zero-red)](https://github.com/snbssschool/SNB-EDUventure/blob/main/README.md#-privacy-guarantee)
-[![rights](https://img.shields.io/badge/©-SNB_SSS-lightgrey)](https://snbhojai.com)
+[![rights](https://img.shields.io/badge/©-SNB_Senior_Secondary_School-lightgrey)](https://snbhojai.com)
 
 [⬇️ Download the APK](https://github.com/snbssschool/SNB-EDUventure/releases/latest) &nbsp;·&nbsp; [Privacy promise](#-privacy-guarantee) &nbsp;·&nbsp; [What's new](RELEASE_NOTES.md)
 
