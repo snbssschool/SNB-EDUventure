@@ -1,7 +1,5 @@
 # 2026.404.5 — hardened build: Argon2id lock, one-touch unlock, capture blocking
 
-> 📋 This file is the release body for tag `2026.404.5`. Paste it into the
-> GitHub release notes (it is also what the in-app update dialog shows).
 
 ## ⚠️ Install note — read first
 
