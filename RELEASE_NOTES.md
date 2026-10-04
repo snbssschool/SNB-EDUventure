@@ -21,7 +21,7 @@
 
 ## ✨ What this app is
 
-The official SNB Senior Secondary School app: animated splash → 9-tile menu → immersive snbhojai.com webview, with app lock (PIN / pattern / password / fingerprint), light + dark themes, pull-to-refresh, offline screen, downloads, notifications, and an in-app updater. **No backend. No account. No telemetry.**
+The official SNB Senior Secondary School app with app lock (PIN / pattern / password / fingerprint), light + dark themes, pull-to-refresh, offline screen, downloads, notifications, and an in-app updater. **No telemetry.**
 
 ## 🔒 Privacy
 
